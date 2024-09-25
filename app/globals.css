@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,::before,::after {
+  @apply  font-bodyFont m-0 p-0 border-0 border-gray-400 box-border;
+}
